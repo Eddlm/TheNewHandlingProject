@@ -638,7 +638,7 @@
 			<Item type="NULL"/>
 		</SubHandlingData>
 	</Item>
-    <Item type="CHandlingData">
+	<Item type="CHandlingData">
       <handlingName>COMET5</handlingName>
       <fMass value="1550.000000" />
       <fDownforceModifier value="225.00" />
@@ -747,10 +747,9 @@
 		<strDamageFlags>0</strDamageFlags>
 		<AIHandling>AVERAGE</AIHandling>
 		<SubHandlingData>
-	  <Item type="NULL"/>
-	  <Item type="NULL"/>
-
-	  <Item type="NULL"/>
+			<Item type="NULL"/>
+			<Item type="NULL"/>
+			<Item type="NULL"/>
 		</SubHandlingData>
 	</Item>
   </HandlingData>
