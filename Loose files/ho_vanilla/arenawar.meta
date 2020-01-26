@@ -1334,32 +1334,33 @@
     <Item type="CHandlingData">
       <handlingName>TOROS</handlingName>
       <fMass value="2200.000000" />
-      <fInitialDragCoeff value="9.000000" />
+      <fInitialDragCoeff value="7.3500000" />	  
+      <fDownforceModifier value="0.0" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.300000" />
       <vecInertiaMultiplier x="1.400000" y="1.600000" z="1.600000" />
       <fDriveBiasFront value="0.400000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.320000" />
+      <fInitialDriveForce value="0.325" />
       <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="5.00000" />
-      <fClutchChangeRateScaleDownShift value="5.00000" />
-      <fInitialDriveMaxFlatVel value="155.000000" />
-      <fBrakeForce value="0.4500000" />
+      <fClutchChangeRateScaleUpShift value="4.00000" />
+      <fClutchChangeRateScaleDownShift value="4.00000" />
+      <fInitialDriveMaxFlatVel value="175.000000" />
+      <fBrakeForce value="0.700" />
       <fBrakeBiasFront value="0.600000" />
-      <fHandBrakeForce value="0.50000" />
+      <fHandBrakeForce value="0.80000" />
       <fSteeringLock value="30.0000" />
-      <fTractionCurveMax value="2.00000" />
-      <fTractionCurveMin value="1.85000" />
+      <fTractionCurveMax value="2.150" />
+      <fTractionCurveMin value="2.000" />
       <fTractionCurveLateral value="22.000000" />
-      <fTractionSpringDeltaMax value="0.170000" />
+      <fTractionSpringDeltaMax value="0.120000" />
       <fLowSpeedTractionLossMult value="0.00000" />
       <fCamberStiffnesss value="0.000000" />
-      <fTractionBiasFront value="0.490000" />
-      <fTractionLossMult value="0.800000" />
-      <fSuspensionForce value="2.500000" />
-      <fSuspensionCompDamp value="1.300000" />
-      <fSuspensionReboundDamp value="1.300000" />
+      <fTractionBiasFront value="0.50000" />
+      <fTractionLossMult value="0.9500000" />
+      <fSuspensionForce value="2.50000" />
+      <fSuspensionCompDamp value="1.500000" />
+      <fSuspensionReboundDamp value="1.800000" />
       <fSuspensionUpperLimit value="0.100000" />
       <fSuspensionLowerLimit value="-0.10000" />
       <fSuspensionRaise value="0.000000" />
@@ -1379,7 +1380,7 @@
       <fSeatOffsetDistZ value="0.000000" />
       <nMonetaryValue value="50000" />
       <strModelFlags>440010</strModelFlags>
-      <strHandlingFlags>20000</strHandlingFlags>
+      <strHandlingFlags>20001</strHandlingFlags>
       <strDamageFlags>0</strDamageFlags>
       <AIHandling>AVERAGE</AIHandling>
       <SubHandlingData>
@@ -2788,5 +2789,6 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
+				
   </HandlingData>
 </CHandlingDataMgr>
