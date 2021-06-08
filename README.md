@@ -8,7 +8,11 @@ Replaces the Day 1 vehicles' handling and goes in Grand Theft Auto V\mods\update
 #### ho_vanilla DLC
 Overrides the vanilla DLC vehicles' handling and goes into Grand Theft Auto V\mods\update\x64\dlcpacks.
 #### DLCs\ho_addons DLC
-Overrides the modded add-on vehicles' handling and goes into Grand Theft Auto V\mods\update\x64\dlcpacks.
+Overrides the modded (GTA5Mods) add-on vehicles' handling and goes into Grand Theft Auto V\mods\update\x64\dlcpacks.
 
 ---
 All three files are included here as loose files so you can preview the content here on GitHub, but you should install the ones from Releases.
+## FAQ
+
+- Q: On the modded vehicles' DLC, what add-on vehicles are included?
+- A: I haven't documented it properly yet. I'm on it.
