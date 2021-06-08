@@ -1,13 +1,14 @@
 
 This project attempts to make GTAV's handling more coherent and interesting overall, focusing on vehicle dynamics like inertia, grip, suspension setup and weight transfer.
 
-# Files in there (for you to install)
-#### Files\handling.meta file
+Head to Releases to download and install the content.
+# Contents
+#### handling.meta file
 Replaces the Day 1 vehicles' handling and goes in Grand Theft Auto V\mods\update\update.rpf\common\data\handling.meta.
-#### DLCs\ho_vanilla DLC
+#### ho_vanilla DLC
 Overrides the vanilla DLC vehicles' handling and goes into Grand Theft Auto V\mods\update\x64\dlcpacks.
 #### DLCs\ho_addons DLC
 Overrides the modded add-on vehicles' handling and goes into Grand Theft Auto V\mods\update\x64\dlcpacks.
 
 ---
-**ho_addons** and **ho_vanilla** are also included as loose files so you can preview them here on GitHub.
+All three files are included here as loose files so you can preview the content here on GitHub, but you should install the ones from Releases.
