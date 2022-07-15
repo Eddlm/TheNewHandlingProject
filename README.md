@@ -29,8 +29,13 @@ Overrides the vanilla DLC vehicles' handling and goes into Grand Theft Auto V\mo
 #### proper_physics_addons DLC
 Overrides the modded (GTA5Mods) add-on vehicles' handling and goes into Grand Theft Auto V\mods\update\x64\dlcpacks.
 
-
-
+**DLCs need to be added into dlclist.xml** with these lines:
+ 	
+```
+		<Item>dlcpacks:/proper_physics_addons/</Item>  	
+		<Item>dlcpacks:/proper_physics_updates/</Item>    
+```
+  
 # FAQ
 
 - Q: What vehicles are in the Overhaul as of now?
