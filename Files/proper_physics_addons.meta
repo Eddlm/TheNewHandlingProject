@@ -1070,7 +1070,7 @@
       <handlingName>TYPE1</handlingName>
       <fMass value="1200.000000" />
       <fInitialDragCoeff value="5.000000" />
-	  <fDownforceModifier value="1.01" />
+	  <fDownforceModifier value="1.0100" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.20000" z="0.100000" />
       <vecInertiaMultiplier x="7.00000" y="3.00000" z="7.00000" />
@@ -1121,7 +1121,7 @@
       <SubHandlingData>
         <Item type="NULL" />
 		 <fToeFront value="0.0" />
-          <fCamberFront value="-0.05" />
+          <fCamberFront value="-0.100" />
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
