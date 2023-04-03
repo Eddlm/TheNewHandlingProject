@@ -2226,8 +2226,8 @@
       <fInitialDragCoeff value="5.00000" />						
       <fDownforceModifier value="1.075" /> <!-- 0.15Gs total -->
       <fPercentSubmerged value="85.000000" />
-      <vecCentreOfMassOffset x="0.000000" y="0.0250000" z="0.25000" />
-      <vecInertiaMultiplier x="1.30000" y="1.500000" z="1.85000" />
+      <vecCentreOfMassOffset x="0.000000" y="0.0250000" z="0.2000" />
+      <vecInertiaMultiplier x="1.30000" y="1.500000" z="2.00000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.32500" />
@@ -2248,10 +2248,10 @@
       <fTractionBiasFront value="0.490" />
       <fTractionLossMult value="0.750" />
       <fSuspensionForce value="3.0000" />
-      <fSuspensionCompDamp value="1.600000" />
-      <fSuspensionReboundDamp value="1.60000" />
+      <fSuspensionCompDamp value="1.250" />
+      <fSuspensionReboundDamp value="1.2000" />
       <fSuspensionUpperLimit value="0.10000" />
-      <fSuspensionLowerLimit value="-0.1000" />
+      <fSuspensionLowerLimit value="-0.1200" />
       <fSuspensionRaise value="0.000000" />
       <fSuspensionBiasFront value="0.50000" />
       <fAntiRollBarForce value="0.250000" />
