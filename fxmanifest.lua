@@ -9,11 +9,8 @@ version '0.1.0 (Public - GitHub)'
 url 'https://github.com/Eddlm'
 
 files {
-    'handling.meta',
-    'php_main.meta',    
+    'data/**/*.meta',
     
 }
 
-
-data_file 'HANDLING_FILE'  'handling.meta' -- Day1
-data_file 'HANDLING_FILE'  'php_main.meta' -- All the rest
+data_file 'HANDLING_FILE' 'data/**/handling_*.meta'
