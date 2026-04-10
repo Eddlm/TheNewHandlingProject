@@ -8728,7 +8728,7 @@
     <fMass value="2500.000000" />
     <fInitialDragCoeff value="13.000000" />
     <fPercentSubmerged value="80.000000" />
-    <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
+    <vecCentreOfMassOffset x="0.000000" y="-0.300000" z="0.000000" />
     <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.800000" />
     <fDriveBiasFront value="0.000000" />
     <nInitialDriveGears value="4" />

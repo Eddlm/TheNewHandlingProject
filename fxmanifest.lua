@@ -9,8 +9,8 @@ version '0.1.0 (Public - GitHub)'
 url 'https://github.com/Eddlm'
 
 files {
-    'data/**/*.meta',
+    'Active/**/*.meta',
     
 }
 
-data_file 'HANDLING_FILE' 'data/**/handling_*.meta'
+data_file 'HANDLING_FILE' 'Active/**/handling_*.meta'
